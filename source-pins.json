@@ -3,12 +3,12 @@
   "sources": {
     "fiducia-cloud/fiducia-sync": {
       "branch": "main",
-      "sha": "30a7db8cba68f1877d7d9bf113d8885d7ecbb937",
+      "sha": "9e515adea783fcd8b7e54e91ed7dc3eb8d522af9",
       "exists": true
     },
     "opto-sync/opto-sync-clients": {
       "branch": "main",
-      "sha": "c93672ebfe7659243cafcd9d108ab4f17f2b2a87",
+      "sha": "fdf4fad9e2e841f66ecee19fca3b408d5fa7fa4c",
       "exists": true
     }
   }
